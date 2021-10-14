@@ -1,1 +1,2 @@
-# computer-vision
+Computer Vision Mini Projects
+
