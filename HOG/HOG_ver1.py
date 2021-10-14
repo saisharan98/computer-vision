@@ -260,9 +260,9 @@ if __name__=='__main__':
     bounding_boxes=face_recognition(I_target, I_template)
 
     I_target_c= cv2.imread('target.png')
-    # MxN image (just for visualization)
+    
     visualize_face_detection(I_target_c, bounding_boxes, I_template.shape[0])
-    #this is visualization code.
+    
 
 
 
